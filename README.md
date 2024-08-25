@@ -3,24 +3,24 @@
 ## Phase 1: Setup and Planning
 
 1. Set up development environment
-   - Install necessary software (Node.js, Python, PostgreSQL)
-   - Set up virtual environments for Python
-   - Install React Native CLI and dependencies
+   - ~~Install necessary software (Node.js, Python, PostgreSQL)~~
+   - ~~Set up virtual environments for Python~~
+   - ~~Install React Native CLI and dependencies~~
 
 2. Create project repositories
-   - Initialize Git repositories for frontend and backend
-   - Set up .gitignore files
-   - Create initial README files
+   - ~~Initialize Git repositories for frontend and backend~~
+   - ~~Set up .gitignore files~~
+   - ~~Create initial README files~~
 
 3. Design database schema
-   - Plan user model structure
-   - Design article and category models
-   - Map out relationships between models
+   - ~~Plan user model structure~~
+   - ~~Design article and category models~~
+   - ~~Map out relationships between models~~
 
 4. Create initial project structure
-   - Set up Flask project structure
-   - Initialize React Native project
-   - Set up basic folder structure for both projects
+   - ~~Set up Flask project structure~~
+   - ~~Initialize React Native project~~
+   - ~~Set up basic folder structure for both projects~~
 
 5. Research and select APIs
    - Evaluate news APIs (NewsAPI, Hacker News API, etc.)
