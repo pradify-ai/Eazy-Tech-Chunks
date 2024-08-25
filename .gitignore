@@ -2,3 +2,13 @@
 .history/
 venv/
 
+# Ignore virtual environment in backend
+backend/venv/
+
+# Ignore node_modules in frontend
+frontend/node_modules/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+.DS_Store
